@@ -1,0 +1,13 @@
+# Day 5 – Customer Purchase Analysis
+
+This project simulates customer purchase data for a retail store and performs:
+
+- Data generation (dummy dataset)
+- Cleaning and preparation
+- KPI calculation (Revenue, AOV, repeat rate)
+- Visualisations of top products and monthly revenue trends
+- One-page insight summary
+
+**Tech Used:** Python, Pandas, Matplotlib, Google Colab  
+
+This project is part of my Data Analyst learning path, demonstrating end-to-end data analysis skills.
